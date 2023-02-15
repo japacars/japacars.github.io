@@ -66,19 +66,19 @@ h2 {
     text-decoration: none;
     color: black;
     font-weight: bold;
-  }
+}
   
 .links-list li a span {
-    color: black
+    color: rgb(0, 0, 0);
     display: block;
     margin-top: 10px;
     font-size: 14px;
-  }
+}
   
 .links-list li a.active {
     box-shadow: 0 0 20px white;
-    color: rgb(241 8 8);
-  }
+    color: rgb(249, 6, 6);
+}
   
 .links-list.second {
     margin-top: 30px;
